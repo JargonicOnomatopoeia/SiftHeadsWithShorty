@@ -1,0 +1,3 @@
+Left click to fire your weapon.
+--- RECORDSEPARATOR ---
+Space to reload.

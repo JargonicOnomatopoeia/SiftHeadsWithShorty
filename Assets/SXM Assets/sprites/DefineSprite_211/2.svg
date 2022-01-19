@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" height="620.85px" width="1275.7px" xmlns="http://www.w3.org/2000/svg">
+  <g transform="matrix(1.0, 0.0, 0.0, 1.0, 905.2, 66.3)">
+    <use height="296.35" transform="matrix(1.0, 0.0, 0.0, 1.0, -282.75, 6.8)" width="279.3" xlink:href="#sprite0"/>
+    <use height="296.35" transform="matrix(0.4716, 0.5036, -0.5036, 0.4716, 162.6449, 0.2516)" width="279.3" xlink:href="#sprite2"/>
+    <use height="296.35" transform="matrix(0.2573, -0.5972, 0.5972, 0.2573, -139.914, 329.9215)" width="279.3" xlink:href="#sprite0"/>
+    <use height="296.35" transform="matrix(0.4221, -0.1521, 0.1521, 0.4221, -54.0452, 309.0061)" width="279.3" xlink:href="#sprite2"/>
+    <use height="296.35" transform="matrix(0.1886, -0.5389, 0.5389, 0.1886, -172.646, 416.9649)" width="279.3" xlink:href="#sprite0"/>
+    <use height="296.35" transform="matrix(0.3603, -0.1592, 0.1592, 0.3603, -92.2527, 175.7271)" width="279.3" xlink:href="#sprite2"/>
+    <use height="296.35" transform="matrix(-0.2733, -0.2513, 0.2513, -0.2733, 28.3851, 400.8446)" width="279.3" xlink:href="#sprite0"/>
+    <use height="296.35" transform="matrix(-0.0024, -0.2561, 0.2561, -0.0024, 33.3032, 350.6608)" width="279.3" xlink:href="#sprite2"/>
+    <use height="296.35" transform="matrix(0.5839, -0.6635, 0.9272, 0.816, -366.6464, 259.1673)" width="279.3" xlink:href="#sprite0"/>
+    <use height="296.35" transform="matrix(0.7423, 0.0981, 0.1432, 0.7189, -112.5219, -41.6018)" width="279.3" xlink:href="#sprite2"/>
+    <use height="296.35" transform="matrix(-0.4035, -0.6581, 0.5873, -0.1863, 16.4674, 428.1413)" width="279.3" xlink:href="#sprite0"/>
+    <use height="296.35" transform="matrix(0.1054, -0.4042, 0.4801, 0.2435, 47.2103, 354.0816)" width="279.3" xlink:href="#sprite2"/>
+    <use height="296.35" transform="matrix(-0.3895, -0.5648, 0.4895, -0.2037, 78.0114, 520.9057)" width="279.3" xlink:href="#sprite0"/>
+    <use height="296.35" transform="matrix(0.0628, -0.3689, 0.427, 0.1884, -98.7269, 270.7247)" width="279.3" xlink:href="#sprite2"/>
+    <use height="296.35" transform="matrix(-0.3926, -0.0237, -0.1067, -0.3898, 180.4371, 374.3724)" width="279.3" xlink:href="#sprite0"/>
+    <use height="296.35" transform="matrix(-0.2389, -0.2075, 0.1474, -0.1719, 136.766, 330.1539)" width="279.3" xlink:href="#sprite2"/>
+  </g>
+  <defs>
+    <g id="sprite0" transform="matrix(1.0, 0.0, 0.0, 1.0, 127.45, 132.15)">
+      <use height="164.2" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)" width="151.85" xlink:href="#sprite1"/>
+    </g>
+    <g id="sprite1" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)">
+      <use height="164.2" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)" width="151.85" xlink:href="#shape0"/>
+    </g>
+    <g id="shape0" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)">
+      <path d="M116.85 0.1 Q120.5 18.1 132.3 41.95 L137.8 52.55 Q137.1 56.7 137.1 66.15 L132.65 81.75 131.2 86.6 129.75 91.6 Q125.3 106.55 125.3 107.05 125.3 116.05 135.55 132.15 L144.3 145.4 Q149.35 153.2 151.85 158.3 L147.8 161.25 Q145.95 162.5 145.95 164.2 L131.2 164.2 Q104.2 139.5 81.9 128.85 59.9 118.4 37.0 116.95 19.05 115.8 0.6 120.2 L0.0 117.45 0.0 117.4 Q29.2 101.4 67.65 83.0 92.75 70.95 99.2 65.45 103.8 61.5 106.35 56.45 108.75 51.6 110.35 43.8 111.55 37.95 113.2 24.9 L116.45 0.0 116.85 0.1" fill="#cc0000" fill-rule="evenodd" stroke="none"/>
+    </g>
+    <g id="sprite2" transform="matrix(1.0, 0.0, 0.0, 1.0, 127.45, 132.15)">
+      <use height="164.2" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)" width="151.85" xlink:href="#sprite3"/>
+    </g>
+    <g id="sprite3" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)">
+      <use height="164.2" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)" width="151.85" xlink:href="#shape1"/>
+    </g>
+    <g id="shape1" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)">
+      <path d="M124.35 43.0 Q121.1 51.8 121.1 60.0 121.1 104.3 131.65 126.7 136.15 136.15 142.7 142.3 L142.5 142.7 144.3 145.4 Q149.35 153.2 151.85 158.3 L147.8 161.25 Q145.95 162.5 145.95 164.2 L131.2 164.2 120.4 154.75 111.3 156.95 Q100.6 128.45 87.05 99.6 69.8 62.95 53.05 36.8 79.95 25.9 107.8 22.3 108.9 22.3 112.95 26.85 L113.2 24.9 116.45 0.0 116.85 0.1 Q119.9 15.05 128.55 34.05 126.1 38.3 124.35 43.0 M0.0 117.4 L0.1 117.35 2.0 119.9 0.6 120.2 0.0 117.45 0.0 117.4" fill="#6d0101" fill-rule="evenodd" stroke="none"/>
+    </g>
+  </defs>
+</svg>

@@ -1,0 +1,7 @@
+this bar show you the time's left for 
+--- RECORDSEPARATOR ---
+your laser. After that it will close 
+--- RECORDSEPARATOR ---
+automaticly. Press LEFT to turn off 
+--- RECORDSEPARATOR ---
+your laser and recharge it.

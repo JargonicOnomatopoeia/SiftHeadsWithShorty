@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 6573cc01cf90dfb4883874a8ebe06481
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Jedi
+  fontNames:
+  - Jedi
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 36698c72857bdac4bb37bae91f051624, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

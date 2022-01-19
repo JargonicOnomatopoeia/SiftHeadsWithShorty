@@ -1,0 +1,16 @@
+_root.costume = 1;
+_root.bullets = 10;
+_root.bulletspermag2 = 10;
+_root.laseron = 1;
+_root.lasertime = 100;
+_root.energy = 300;
+_root.energy2 = 300;
+_root.scores = 0;
+_root.lvl = 1;
+_root.legun = 1;
+_root.nbenkill = 0;
+_root.stat_resistance = 1;
+_root.stat_durability = 1;
+_root.stat_capacity = 1;
+_root.nbenkill = 0;
+stop();

@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" height="417.4px" width="602.0px" xmlns="http://www.w3.org/2000/svg">
+  <g transform="matrix(1.0, 0.0, 0.0, 1.0, 332.0, 319.0)">
+    <use height="156.95" transform="matrix(1.0, 0.0, 0.0, 1.0, -258.5, -230.45)" width="369.05" xlink:href="#shape0"/>
+    <use height="18.8" transform="matrix(1.0, 0.0, 0.0, 1.0, -241.2, -107.6)" width="134.25" xlink:href="#sprite0"/>
+    <use height="18.8" transform="matrix(1.0, 0.0, 0.0, 1.0, -241.2, -107.6)" width="134.25" xlink:href="#text1"/>
+    <use height="58.05" transform="matrix(1.2585, 0.0, 0.0, 1.0, -263.05, -135.95)" width="184.0" xlink:href="#button0"/>
+  </g>
+  <defs>
+    <g id="shape0" transform="matrix(1.0, 0.0, 0.0, 1.0, 258.5, 230.45)">
+      <path d="M-258.0 -82.0 L-247.0 -82.0 -247.0 -229.95 M110.05 -82.0 L-247.0 -82.0 -247.0 -74.0" fill="none" stroke="#010101" stroke-linecap="round" stroke-linejoin="round" stroke-opacity="0.0" stroke-width="1.0"/>
+    </g>
+    <g id="sprite0" transform="matrix(1.0, 0.0, 0.0, 1.0, -2.2, -1.0)">
+      <use height="18.8" transform="matrix(1.0, 0.0, 0.0, 1.0, 2.2, 1.0)" width="134.25" xlink:href="#text0"/>
+    </g>
+    <g id="text0" transform="matrix(1.0, 0.0, 0.0, 1.0, -26.45, 1.0)">
+      <g transform="matrix(1.0, 0.0, 0.0, 1.0, 26.25, 0.0)">
+        <use fill="#ffffff" height="18.8" transform="matrix(0.0225, 0.0, 0.0, 0.0225, 0.0, 17.0)" width="134.25" xlink:href="#font_Acknowledge_TT_BRK_a0"/>
+        <use fill="#ffffff" height="18.8" transform="matrix(0.0225, 0.0, 0.0, 0.0225, 12.1, 17.0)" width="134.25" xlink:href="#font_Acknowledge_TT_BRK_n0"/>
+        <use fill="#ffffff" height="18.8" transform="matrix(0.0225, 0.0, 0.0, 0.0225, 24.2, 17.0)" width="134.25" xlink:href="#font_Acknowledge_TT_BRK_d0"/>
+        <use fill="#ffffff" height="18.8" transform="matrix(0.0225, 0.0, 0.0, 0.0225, 36.3, 17.0)" width="134.25" xlink:href="#font_Acknowledge_TT_BRK_k0"/>
+        <use fill="#ffffff" height="18.8" transform="matrix(0.0225, 0.0, 0.0, 0.0225, 48.4, 17.0)" width="134.25" xlink:href="#font_Acknowledge_TT_BRK_o0"/>
+        <use fill="#ffffff" height="18.8" transform="matrix(0.0225, 0.0, 0.0, 0.0225, 60.5, 17.0)" width="134.25" xlink:href="#font_Acknowledge_TT_BRK_n0"/>
+        <use fill="#ffffff" height="18.8" transform="matrix(0.0225, 0.0, 0.0, 0.0225, 72.6, 17.0)" width="134.25" xlink:href="#font_Acknowledge_TT_BRK_.0"/>
+        <use fill="#ffffff" height="18.8" transform="matrix(0.0225, 0.0, 0.0, 0.0225, 77.8, 17.0)" width="134.25" xlink:href="#font_Acknowledge_TT_BRK_c0"/>
+        <use fill="#ffffff" height="18.8" transform="matrix(0.0225, 0.0, 0.0, 0.0225, 89.9, 17.0)" width="134.25" xlink:href="#font_Acknowledge_TT_BRK_o0"/>
+        <use fill="#ffffff" height="18.8" transform="matrix(0.0225, 0.0, 0.0, 0.0225, 102.0, 17.0)" width="134.25" xlink:href="#font_Acknowledge_TT_BRK_m0"/>
+      </g>
+    </g>
+    <g id="font_Acknowledge_TT_BRK_a0">
+      <path d="M307.0 -77.0 L307.0 -153.5 153.5 -153.5 153.5 -77.0 307.0 -77.0 M0.0 -307.0 L0.0 -384.0 460.5 -384.0 460.5 0.0 0.0 0.0 0.0 -230.5 307.0 -230.5 307.0 -307.0 0.0 -307.0" fill-rule="evenodd" stroke="none"/>
+    </g>
+    <g id="font_Acknowledge_TT_BRK_n0">
+      <path d="M153.5 -307.0 L153.5 0.0 0.0 0.0 0.0 -384.0 460.5 -384.0 460.5 0.0 307.0 0.0 307.0 -307.0 153.5 -307.0" fill-rule="evenodd" stroke="none"/>
+    </g>
+    <g id="font_Acknowledge_TT_BRK_d0">
+      <path d="M153.5 -307.0 L153.5 -77.0 307.0 -77.0 307.0 -307.0 153.5 -307.0 M0.0 0.0 L0.0 -384.0 384.0 -384.0 384.0 -307.0 460.5 -307.0 460.5 -77.0 384.0 -77.0 384.0 0.0 0.0 0.0" fill-rule="evenodd" stroke="none"/>
+    </g>
+    <g id="font_Acknowledge_TT_BRK_k0">
+      <path d="M153.5 -153.5 L153.5 0.0 0.0 0.0 0.0 -384.0 153.5 -384.0 153.5 -230.5 230.5 -230.5 230.5 -307.0 307.0 -307.0 307.0 -384.0 460.5 -384.0 460.5 -307.0 384.0 -307.0 384.0 -230.5 307.0 -230.5 307.0 -153.5 384.0 -153.5 384.0 -77.0 460.5 -77.0 460.5 0.0 307.0 0.0 307.0 -77.0 230.5 -77.0 230.5 -153.5 153.5 -153.5" fill-rule="evenodd" stroke="none"/>
+    </g>
+    <g id="font_Acknowledge_TT_BRK_o0">
+      <path d="M153.5 -307.0 L153.5 -77.0 307.0 -77.0 307.0 -307.0 153.5 -307.0 M0.0 0.0 L0.0 -384.0 460.5 -384.0 460.5 0.0 0.0 0.0" fill-rule="evenodd" stroke="none"/>
+    </g>
+    <g id="font_Acknowledge_TT_BRK_.0">
+      <path d="M0.0 0.0 L0.0 -153.5 153.5 -153.5 153.5 0.0 0.0 0.0" fill-rule="evenodd" stroke="none"/>
+    </g>
+    <g id="font_Acknowledge_TT_BRK_c0">
+      <path d="M153.5 -307.0 L153.5 -77.0 460.5 -77.0 460.5 0.0 0.0 0.0 0.0 -384.0 460.5 -384.0 460.5 -307.0 153.5 -307.0" fill-rule="evenodd" stroke="none"/>
+    </g>
+    <g id="font_Acknowledge_TT_BRK_m0">
+      <path d="M153.5 -307.0 L153.5 0.0 0.0 0.0 0.0 -384.0 614.5 -384.0 614.5 0.0 461.0 0.0 461.0 -307.0 384.0 -307.0 384.0 0.0 230.5 0.0 230.5 -307.0 153.5 -307.0" fill-rule="evenodd" stroke="none"/>
+    </g>
+    <g id="text1" transform="matrix(1.0, 0.0, 0.0, 1.0, -26.45, 1.0)">
+      <g transform="matrix(1.0, 0.0, 0.0, 1.0, 26.25, 0.0)">
+        <use fill="#000000" height="18.8" transform="matrix(0.0225, 0.0, 0.0, 0.0225, 0.0, 17.0)" width="134.25" xlink:href="#font_Acknowledge_TT_BRK_a0"/>
+        <use fill="#000000" height="18.8" transform="matrix(0.0225, 0.0, 0.0, 0.0225, 12.1, 17.0)" width="134.25" xlink:href="#font_Acknowledge_TT_BRK_n0"/>
+        <use fill="#000000" height="18.8" transform="matrix(0.0225, 0.0, 0.0, 0.0225, 24.2, 17.0)" width="134.25" xlink:href="#font_Acknowledge_TT_BRK_d0"/>
+        <use fill="#000000" height="18.8" transform="matrix(0.0225, 0.0, 0.0, 0.0225, 36.3, 17.0)" width="134.25" xlink:href="#font_Acknowledge_TT_BRK_k0"/>
+        <use fill="#000000" height="18.8" transform="matrix(0.0225, 0.0, 0.0, 0.0225, 48.4, 17.0)" width="134.25" xlink:href="#font_Acknowledge_TT_BRK_o0"/>
+        <use fill="#000000" height="18.8" transform="matrix(0.0225, 0.0, 0.0, 0.0225, 60.5, 17.0)" width="134.25" xlink:href="#font_Acknowledge_TT_BRK_n0"/>
+        <use fill="#000000" height="18.8" transform="matrix(0.0225, 0.0, 0.0, 0.0225, 72.6, 17.0)" width="134.25" xlink:href="#font_Acknowledge_TT_BRK_.0"/>
+        <use fill="#000000" height="18.8" transform="matrix(0.0225, 0.0, 0.0, 0.0225, 77.8, 17.0)" width="134.25" xlink:href="#font_Acknowledge_TT_BRK_c0"/>
+        <use fill="#000000" height="18.8" transform="matrix(0.0225, 0.0, 0.0, 0.0225, 89.9, 17.0)" width="134.25" xlink:href="#font_Acknowledge_TT_BRK_o0"/>
+        <use fill="#000000" height="18.8" transform="matrix(0.0225, 0.0, 0.0, 0.0225, 102.0, 17.0)" width="134.25" xlink:href="#font_Acknowledge_TT_BRK_m0"/>
+      </g>
+    </g>
+  </defs>
+</svg>

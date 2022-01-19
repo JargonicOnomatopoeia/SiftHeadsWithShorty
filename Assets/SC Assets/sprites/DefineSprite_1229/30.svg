@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" height="208.8px" width="212.15px" xmlns="http://www.w3.org/2000/svg">
+  <g transform="matrix(1.0, 0.0, 0.0, 1.0, 77.2, 45.15)">
+    <use height="26.65" transform="matrix(0.8838, 0.4617, -0.4345, 0.3054, 29.05, -43.55)" width="36.4" xlink:href="#sprite0"/>
+    <use height="26.65" transform="matrix(0.8289, -0.5293, 0.1909, 2.0683, 98.35, 9.2)" width="36.4" xlink:href="#sprite0"/>
+    <use height="26.65" transform="matrix(0.8838, 0.4617, -1.5871, 0.1334, -33.3, 44.9)" width="36.4" xlink:href="#sprite0"/>
+    <use height="26.65" transform="matrix(-0.1743, -0.9174, 0.5049, 0.1383, 86.1, 96.85)" width="36.4" xlink:href="#sprite0"/>
+    <use height="26.65" transform="matrix(0.7401, -0.6998, 0.1399, 0.502, 11.05, 147.9)" width="36.4" xlink:href="#sprite0"/>
+  </g>
+  <defs>
+    <g id="sprite0" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)">
+      <use height="25.45" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.2, 0.0)" width="36.2" xlink:href="#sprite1"/>
+      <use height="25.45" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, 1.2)" width="36.2" xlink:href="#sprite1"/>
+    </g>
+    <g id="sprite1" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)">
+      <use height="25.45" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)" width="36.2" xlink:href="#shape0"/>
+    </g>
+    <g id="shape0" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)">
+      <path d="M28.8 25.45 L14.35 14.3 0.0 10.2 18.0 0.0 36.2 6.7 32.05 16.0 34.95 17.8 28.8 25.45" fill="#d9d9d9" fill-opacity="0.1254902" fill-rule="evenodd" stroke="none"/>
+    </g>
+  </defs>
+</svg>

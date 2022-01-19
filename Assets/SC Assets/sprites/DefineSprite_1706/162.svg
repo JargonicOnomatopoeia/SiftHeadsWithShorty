@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" height="440.0px" width="1115.4px" xmlns="http://www.w3.org/2000/svg">
+  <g transform="matrix(1.0, 0.0, 0.0, 1.0, 525.95, 220.0)">
+    <use height="440.0" transform="matrix(1.0, 0.0, 0.0, 1.0, -400.0, -220.0)" width="800.0" xlink:href="#sprite0"/>
+    <use height="43.2" transform="matrix(1.1167, 0.0, 0.0, 3.0556, -463.6004, -66.0)" width="843.2" xlink:href="#sprite1"/>
+    <use height="20.85" transform="matrix(0.9725, 0.0, 0.0, 0.9725, -137.774, -11.253)" width="284.7" xlink:href="#sprite2"/>
+  </g>
+  <defs>
+    <g id="sprite0" transform="matrix(1.0, 0.0, 0.0, 1.0, 400.0, 220.0)">
+      <use height="440.0" transform="matrix(1.0, 0.0, 0.0, 1.0, -400.0, -220.0)" width="800.0" xlink:href="#shape0"/>
+    </g>
+    <g id="shape0" transform="matrix(1.0, 0.0, 0.0, 1.0, 400.0, 220.0)">
+      <path d="M400.0 220.0 L-400.0 220.0 -400.0 -220.0 400.0 -220.0 400.0 220.0" fill="#010101" fill-opacity="0.21960784" fill-rule="evenodd" stroke="none"/>
+    </g>
+    <g id="sprite1" transform="matrix(1.0, 0.0, 0.0, 1.0, 421.6, 21.6)">
+      <use height="43.2" transform="matrix(1.0, 0.0, 0.0, 1.0, -421.6, -21.6)" width="843.2" xlink:href="#shape1"/>
+    </g>
+    <g id="shape1" transform="matrix(1.0, 0.0, 0.0, 1.0, 421.6, 21.6)">
+      <path d="M-421.6 -21.6 L421.6 -21.6 421.6 21.6 -421.6 21.6 -421.6 -21.6" fill="#ffffff" fill-opacity="0.043137256" fill-rule="evenodd" stroke="none"/>
+    </g>
+    <g id="sprite2" transform="matrix(1.0, 0.0, 0.0, 1.0, 137.1, 12.6)">
+      <use height="12.4" transform="matrix(1.6797, 0.0, 0.0, 1.6797, -137.0896, -12.5797)" width="169.5" xlink:href="#text0"/>
+    </g>
+    <g id="text0" transform="matrix(1.0, 0.0, 0.0, 1.0, -35.4, 1.0)">
+      <g transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)">
+        <use fill="#ffffff" fill-opacity="0.8901961" height="12.4" transform="matrix(0.0127, 0.0, 0.0, 0.0127, 35.0, 10.0)" width="169.5" xlink:href="#font_Fusion_v0"/>
+        <use fill="#ffffff" fill-opacity="0.8901961" height="12.4" transform="matrix(0.0127, 0.0, 0.0, 0.0127, 49.3, 10.0)" width="169.5" xlink:href="#font_Fusion_i0"/>
+        <use fill="#ffffff" fill-opacity="0.8901961" height="12.4" transform="matrix(0.0127, 0.0, 0.0, 0.0127, 53.85, 10.0)" width="169.5" xlink:href="#font_Fusion_n0"/>
+        <use fill="#ffffff" fill-opacity="0.8901961" height="12.4" transform="matrix(0.0127, 0.0, 0.0, 0.0127, 68.8, 10.0)" width="169.5" xlink:href="#font_Fusion_n0"/>
+        <use fill="#ffffff" fill-opacity="0.8901961" height="12.4" transform="matrix(0.0127, 0.0, 0.0, 0.0127, 83.75, 10.0)" width="169.5" xlink:href="#font_Fusion_i0"/>
+        <use fill="#ffffff" fill-opacity="0.8901961" height="12.4" transform="matrix(0.0127, 0.0, 0.0, 0.0127, 88.3, 10.0)" width="169.5" xlink:href="#font_Fusion_e0"/>
+        <use fill="#ffffff" fill-opacity="0.8901961" height="12.4" transform="matrix(0.0127, 0.0, 0.0, 0.0127, 113.0, 10.0)" width="169.5" xlink:href="#font_Fusion_i0"/>
+        <use fill="#ffffff" fill-opacity="0.8901961" height="12.4" transform="matrix(0.0127, 0.0, 0.0, 0.0127, 117.55, 10.0)" width="169.5" xlink:href="#font_Fusion_s0"/>
+        <use fill="#ffffff" fill-opacity="0.8901961" height="12.4" transform="matrix(0.0127, 0.0, 0.0, 0.0127, 142.25, 10.0)" width="169.5" xlink:href="#font_Fusion_d0"/>
+        <use fill="#ffffff" fill-opacity="0.8901961" height="12.4" transform="matrix(0.0127, 0.0, 0.0, 0.0127, 156.55, 10.0)" width="169.5" xlink:href="#font_Fusion_e0"/>
+        <use fill="#ffffff" fill-opacity="0.8901961" height="12.4" transform="matrix(0.0127, 0.0, 0.0, 0.0127, 170.85, 10.0)" width="169.5" xlink:href="#font_Fusion_a0"/>
+        <use fill="#ffffff" fill-opacity="0.8901961" height="12.4" transform="matrix(0.0127, 0.0, 0.0, 0.0127, 185.15, 10.0)" width="169.5" xlink:href="#font_Fusion_d0"/>
+      </g>
+    </g>
+    <g id="font_Fusion_v0">
+      <path d="M51.0 -614.5 L51.0 -100.5 Q51.0 -60.5 81.0 -30.0 111.5 0.0 151.5 0.0 L975.5 0.0 Q1015.5 0.0 1045.5 -30.0 1075.0 -60.5 1075.0 -100.5 L1075.0 -614.5 819.0 -614.5 819.0 -203.5 Q819.0 -183.0 804.0 -168.5 789.5 -153.5 769.0 -153.5 L357.0 -153.5 Q336.5 -153.5 322.0 -168.5 307.0 -183.0 307.0 -203.5 L307.0 -614.5 51.0 -614.5" fill-rule="evenodd" stroke="none"/>
+    </g>
+    <g id="font_Fusion_i0">
+      <path d="M51.0 0.0 L307.0 0.0 307.0 -614.5 51.0 -614.5 51.0 0.0" fill-rule="evenodd" stroke="none"/>
+    </g>
+    <g id="font_Fusion_n0">
+      <path d="M307.0 -614.5 L51.0 -614.5 51.0 0.0 307.0 0.0 307.0 -409.5 410.5 -409.5 Q431.0 -409.5 445.5 -394.5 460.5 -380.0 460.5 -359.5 L460.5 -100.5 Q460.5 -60.5 490.5 -30.0 521.0 0.0 561.0 0.0 L1026.5 0.0 Q1066.5 0.0 1096.5 -29.5 1126.0 -59.5 1126.0 -100.5 L1126.0 -614.5 870.0 -512.0 870.0 -203.5 Q870.0 -184.0 855.0 -169.0 840.5 -153.5 820.0 -153.5 L766.5 -153.5 Q746.0 -153.5 731.5 -168.5 716.5 -183.0 716.5 -203.5 L716.5 -463.5 Q716.5 -503.5 687.0 -533.5 657.0 -563.0 617.0 -563.0 L307.0 -563.0 307.0 -614.5" fill-rule="evenodd" stroke="none"/>
+    </g>
+    <g id="font_Fusion_e0">
+      <path d="M819.0 -358.5 L307.0 -358.5 307.0 -411.0 Q307.0 -431.5 322.0 -446.0 336.5 -461.0 357.0 -461.0 L769.0 -461.0 Q789.5 -461.0 804.0 -446.0 819.0 -431.5 819.0 -411.0 L819.0 -358.5 M1075.0 -256.0 L1075.0 -515.0 Q1075.0 -555.0 1045.5 -585.0 1015.5 -614.5 975.5 -614.5 L151.5 -614.5 Q110.5 -614.5 80.5 -585.0 51.0 -555.0 51.0 -515.0 L51.0 -100.5 Q51.0 -60.5 81.0 -30.0 111.5 0.0 151.5 0.0 L870.0 0.0 972.5 -153.5 357.0 -153.5 Q336.5 -153.5 322.0 -168.5 307.0 -183.0 307.0 -203.5 L307.0 -256.0 1075.0 -256.0" fill-rule="evenodd" stroke="none"/>
+    </g>
+    <g id="font_Fusion_s0">
+      <path d="M307.0 -358.5 L307.0 -411.0 Q307.0 -431.5 322.0 -446.0 336.5 -461.0 357.0 -461.0 L972.5 -461.0 1075.0 -614.5 151.5 -614.5 Q110.5 -614.5 80.5 -585.0 51.0 -555.0 51.0 -515.0 L51.0 -256.0 819.0 -256.0 819.0 -203.5 Q819.0 -184.0 804.0 -169.0 789.5 -153.5 769.0 -153.5 L153.5 -153.5 51.0 0.0 975.5 0.0 Q1015.5 0.0 1045.5 -29.5 1075.0 -59.5 1075.0 -100.5 L1075.0 -358.5 307.0 -358.5" fill-rule="evenodd" stroke="none"/>
+    </g>
+    <g id="font_Fusion_d0">
+      <path d="M1075.0 0.0 L1075.0 -614.5 819.0 -614.5 819.0 -153.5 357.0 -153.5 Q336.5 -153.5 322.0 -168.5 307.0 -183.0 307.0 -203.5 L307.0 -359.5 Q307.0 -380.0 322.0 -394.5 336.5 -409.5 357.0 -409.5 L614.0 -409.5 716.5 -563.0 151.5 -563.0 Q110.5 -563.0 80.5 -533.5 51.0 -503.5 51.0 -463.5 L51.0 -100.5 Q51.0 -60.5 81.0 -30.0 111.5 0.0 151.5 0.0 L1075.0 0.0" fill-rule="evenodd" stroke="none"/>
+    </g>
+    <g id="font_Fusion_a0">
+      <path d="M1075.0 0.0 L1075.0 -614.5 151.5 -614.5 Q110.5 -614.5 80.5 -585.0 51.0 -555.0 51.0 -515.0 L51.0 -100.5 Q51.0 -60.5 81.0 -30.0 111.5 0.0 151.5 0.0 L614.0 0.0 716.5 -153.5 357.0 -153.5 Q336.5 -153.5 322.0 -168.5 307.0 -183.0 307.0 -203.5 L307.0 -411.0 Q307.0 -431.5 322.0 -446.0 336.5 -461.0 357.0 -461.0 L819.0 -461.0 819.0 0.0 1075.0 0.0" fill-rule="evenodd" stroke="none"/>
+    </g>
+  </defs>
+</svg>

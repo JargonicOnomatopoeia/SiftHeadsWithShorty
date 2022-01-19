@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 31d82effe53699947a33d6e26a84ae15
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - status: {instanceID: 0}
+  - gunpoint: {instanceID: 0}
+  - bloodsplat: {fileID: 3019045193222412061, guid: d0fdebd9f4abbd64696574559841b405,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

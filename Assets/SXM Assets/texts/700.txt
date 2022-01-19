@@ -1,0 +1,7 @@
+this counter show your bullets left in 
+--- RECORDSEPARATOR ---
+your desert eagle  ... when it will be 
+--- RECORDSEPARATOR ---
+empty you will need to reload it...
+--- RECORDSEPARATOR ---
+now FIRE all your bullets ...

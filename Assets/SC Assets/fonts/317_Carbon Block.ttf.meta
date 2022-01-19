@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 2700288b19bc3f3428cfed617577ba9c
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Carbon Block
+  fontNames:
+  - Carbon Block
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 798c63baa95555643a2f94a605750f0a, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
